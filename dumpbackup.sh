@@ -1,7 +1,7 @@
 #!/bin/sh
 while true 
 do
-    date=$(date +"%m_%d_%Y_%s")
+    date=$(date +"%m_%d_%Y")
     dirname='dump'.date
     # dump= mongodump --port 4001 --db safir --collection colname
     if [ -d "dirname" ]
@@ -18,9 +18,9 @@ do
 	wait
 	git commit -m "udpate db"
 	wait
-	sudo git push --repo https://lengsophy:sophyleng1267437611@github.com/lengsophy/dumpbackup.git
+	sudo git push --repo https://lengsophy:sophyleng1267437611@github.com/lengsophy/backup_safir_live_iran.git
 
     fi
-    sleep 2m
+    sleep 1d
 
 done
