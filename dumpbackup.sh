@@ -21,6 +21,6 @@ do
 	sudo git push --repo https://lengsophy:sophyleng1267437611@github.com/lengsophy/backup_safir_live_iran.git
 
     fi
-    sleep 24h
+    sleep 5m
 
 done
