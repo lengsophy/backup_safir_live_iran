@@ -5655,3 +5655,12 @@ connected to: 127.0.0.1
 2016-04-06T14:50:42.439+0430 DATABASE: admin	 to 	dump/admin
 2016-04-06T14:50:42.439+0430 DATABASE: safir	 to 	dump/safir
 git: /usr/local/lib/libz.so.1: no version information available (required by git)
+git: /usr/local/lib/libz.so.1: no version information available (required by git)
+[master f529640] udpate db
+ 2 files changed, 240 insertions(+), 0 deletions(-)
+git: /usr/local/lib/libz.so.1: no version information available (required by git)
+git-remote-https: /usr/local/lib/libz.so.1: no version information available (required by git-remote-https)
+git: /usr/local/lib/libz.so.1: no version information available (required by git)
+git: /usr/local/lib/libz.so.1: no version information available (required by git)
+To https://lengsophy:sophyleng1267437611@github.com/lengsophy/backup_safir_live_iran.git
+   6734218..f529640  master -> master
