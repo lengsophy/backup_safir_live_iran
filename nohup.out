@@ -45229,3 +45229,238 @@ connected to: 127.0.0.1
 2016-04-07T04:53:05.319+0430 DATABASE: admin	 to 	dump/admin
 2016-04-07T04:53:05.319+0430 DATABASE: safir	 to 	dump/safir
 git: /usr/local/lib/libz.so.1: no version information available (required by git)
+git: /usr/local/lib/libz.so.1: no version information available (required by git)
+[master e3d8359] udpate db
+ 2 files changed, 235 insertions(+), 0 deletions(-)
+sudo: sorry, you must have a tty to run sudo
+mkdir: cannot create directory `04_07_2016': File exists
+connected to: 127.0.0.1
+2016-04-07T04:58:06.422+0430 all dbs
+2016-04-07T04:58:06.422+0430 DATABASE: meteor	 to 	dump/meteor
+2016-04-07T04:58:06.423+0430 	meteor.system.indexes to dump/meteor/system.indexes.bson
+2016-04-07T04:58:06.423+0430 		 61 documents
+2016-04-07T04:58:06.423+0430 	meteor.tags to dump/meteor/tags.bson
+2016-04-07T04:58:06.424+0430 		 667 documents
+2016-04-07T04:58:06.424+0430 	Metadata for meteor.tags to dump/meteor/tags.metadata.json
+2016-04-07T04:58:06.424+0430 	meteor.roles to dump/meteor/roles.bson
+2016-04-07T04:58:06.424+0430 		 1 documents
+2016-04-07T04:58:06.424+0430 	Metadata for meteor.roles to dump/meteor/roles.metadata.json
+2016-04-07T04:58:06.424+0430 	meteor.translation to dump/meteor/translation.bson
+2016-04-07T04:58:06.425+0430 		 751 documents
+2016-04-07T04:58:06.425+0430 	Metadata for meteor.translation to dump/meteor/translation.metadata.json
+2016-04-07T04:58:06.425+0430 	meteor.banner to dump/meteor/banner.bson
+2016-04-07T04:58:06.425+0430 		 7 documents
+2016-04-07T04:58:06.425+0430 	Metadata for meteor.banner to dump/meteor/banner.metadata.json
+2016-04-07T04:58:06.425+0430 	meteor.users to dump/meteor/users.bson
+2016-04-07T04:58:06.457+0430 		 41547 documents
+2016-04-07T04:58:06.461+0430 	Metadata for meteor.users to dump/meteor/users.metadata.json
+2016-04-07T04:58:06.462+0430 	meteor.meteor_oauth_pendingCredentials to dump/meteor/meteor_oauth_pendingCredentials.bson
+2016-04-07T04:58:06.462+0430 		 0 documents
+2016-04-07T04:58:06.462+0430 	Metadata for meteor.meteor_oauth_pendingCredentials to dump/meteor/meteor_oauth_pendingCredentials.metadata.json
+2016-04-07T04:58:06.462+0430 	meteor.categories to dump/meteor/categories.bson
+2016-04-07T04:58:06.462+0430 		 66 documents
+2016-04-07T04:58:06.462+0430 	Metadata for meteor.categories to dump/meteor/categories.metadata.json
+2016-04-07T04:58:06.462+0430 	meteor.journey to dump/meteor/journey.bson
+2016-04-07T04:58:06.463+0430 		 3 documents
+2016-04-07T04:58:06.463+0430 	Metadata for meteor.journey to dump/meteor/journey.metadata.json
+2016-04-07T04:58:06.463+0430 	meteor.products to dump/meteor/products.bson
+2016-04-07T04:58:06.468+0430 		 823 documents
+2016-04-07T04:58:06.469+0430 	Metadata for meteor.products to dump/meteor/products.metadata.json
+2016-04-07T04:58:06.469+0430 	meteor.meteor_accounts_loginServiceConfiguration to dump/meteor/meteor_accounts_loginServiceConfiguration.bson
+2016-04-07T04:58:06.470+0430 		 4 documents
+2016-04-07T04:58:06.470+0430 	Metadata for meteor.meteor_accounts_loginServiceConfiguration to dump/meteor/meteor_accounts_loginServiceConfiguration.metadata.json
+2016-04-07T04:58:06.470+0430 	meteor.__kdtraces to dump/meteor/__kdtraces.bson
+2016-04-07T04:58:06.518+0430 		 31936 documents
+2016-04-07T04:58:06.530+0430 	Metadata for meteor.__kdtraces to dump/meteor/__kdtraces.metadata.json
+2016-04-07T04:58:06.530+0430 	meteor.list_product to dump/meteor/list_product.bson
+2016-04-07T04:58:06.530+0430 		 3 documents
+2016-04-07T04:58:06.530+0430 	Metadata for meteor.list_product to dump/meteor/list_product.metadata.json
+2016-04-07T04:58:06.530+0430 	meteor.favorite to dump/meteor/favorite.bson
+2016-04-07T04:58:06.530+0430 		 194 documents
+2016-04-07T04:58:06.530+0430 	Metadata for meteor.favorite to dump/meteor/favorite.metadata.json
+2016-04-07T04:58:06.531+0430 	meteor.__kdtimeevents to dump/meteor/__kdtimeevents.bson
+2016-04-07T04:58:06.531+0430 		 0 documents
+2016-04-07T04:58:06.531+0430 	Metadata for meteor.__kdtimeevents to dump/meteor/__kdtimeevents.metadata.json
+2016-04-07T04:58:06.531+0430 	meteor.posts to dump/meteor/posts.bson
+2016-04-07T04:58:06.531+0430 		 2 documents
+2016-04-07T04:58:06.531+0430 	Metadata for meteor.posts to dump/meteor/posts.metadata.json
+2016-04-07T04:58:06.531+0430 	meteor.tracking to dump/meteor/tracking.bson
+2016-04-07T04:58:06.532+0430 		 909 documents
+2016-04-07T04:58:06.532+0430 	Metadata for meteor.tracking to dump/meteor/tracking.metadata.json
+2016-04-07T04:58:06.532+0430 	meteor.attribute_value to dump/meteor/attribute_value.bson
+2016-04-07T04:58:06.532+0430 		 440 documents
+2016-04-07T04:58:06.532+0430 	Metadata for meteor.attribute_value to dump/meteor/attribute_value.metadata.json
+2016-04-07T04:58:06.533+0430 	meteor.order to dump/meteor/order.bson
+2016-04-07T04:58:06.533+0430 		 14 documents
+2016-04-07T04:58:06.533+0430 	Metadata for meteor.order to dump/meteor/order.metadata.json
+2016-04-07T04:58:06.533+0430 	meteor.quizz to dump/meteor/quizz.bson
+2016-04-07T04:58:06.533+0430 		 10 documents
+2016-04-07T04:58:06.533+0430 	Metadata for meteor.quizz to dump/meteor/quizz.metadata.json
+2016-04-07T04:58:06.533+0430 	meteor.meteor_oauth_pendingRequestTokens to dump/meteor/meteor_oauth_pendingRequestTokens.bson
+2016-04-07T04:58:06.533+0430 		 0 documents
+2016-04-07T04:58:06.533+0430 	Metadata for meteor.meteor_oauth_pendingRequestTokens to dump/meteor/meteor_oauth_pendingRequestTokens.metadata.json
+2016-04-07T04:58:06.533+0430 	meteor.contents_type to dump/meteor/contents_type.bson
+2016-04-07T04:58:06.533+0430 		 3 documents
+2016-04-07T04:58:06.533+0430 	Metadata for meteor.contents_type to dump/meteor/contents_type.metadata.json
+2016-04-07T04:58:06.533+0430 	meteor.contents to dump/meteor/contents.bson
+2016-04-07T04:58:06.533+0430 		 19 documents
+2016-04-07T04:58:06.533+0430 	Metadata for meteor.contents to dump/meteor/contents.metadata.json
+2016-04-07T04:58:06.534+0430 	meteor.userTracking to dump/meteor/userTracking.bson
+2016-04-07T04:58:06.659+0430 		 162990 documents
+2016-04-07T04:58:06.666+0430 	Metadata for meteor.userTracking to dump/meteor/userTracking.metadata.json
+2016-04-07T04:58:06.666+0430 	meteor.cfs._tempstore.chunks to dump/meteor/cfs._tempstore.chunks.bson
+2016-04-07T04:58:06.667+0430 		 5 documents
+2016-04-07T04:58:06.667+0430 	Metadata for meteor.cfs._tempstore.chunks to dump/meteor/cfs._tempstore.chunks.metadata.json
+2016-04-07T04:58:06.667+0430 	meteor.daily to dump/meteor/daily.bson
+2016-04-07T04:58:06.667+0430 		 31 documents
+2016-04-07T04:58:06.667+0430 	Metadata for meteor.daily to dump/meteor/daily.metadata.json
+2016-04-07T04:58:06.667+0430 	meteor.parentattr to dump/meteor/parentattr.bson
+2016-04-07T04:58:06.667+0430 		 2 documents
+2016-04-07T04:58:06.667+0430 	Metadata for meteor.parentattr to dump/meteor/parentattr.metadata.json
+2016-04-07T04:58:06.667+0430 	meteor.stock to dump/meteor/stock.bson
+2016-04-07T04:58:06.739+0430 		 115960 documents
+2016-04-07T04:58:06.743+0430 	Metadata for meteor.stock to dump/meteor/stock.metadata.json
+2016-04-07T04:58:06.744+0430 	meteor.card to dump/meteor/card.bson
+2016-04-07T04:58:06.744+0430 		 0 documents
+2016-04-07T04:58:06.744+0430 	Metadata for meteor.card to dump/meteor/card.metadata.json
+2016-04-07T04:58:06.744+0430 	meteor.p2 to dump/meteor/p2.bson
+2016-04-07T04:58:06.750+0430 		 948 documents
+2016-04-07T04:58:06.752+0430 	Metadata for meteor.p2 to dump/meteor/p2.metadata.json
+2016-04-07T04:58:06.752+0430 	meteor.shops to dump/meteor/shops.bson
+2016-04-07T04:58:06.752+0430 		 2 documents
+2016-04-07T04:58:06.752+0430 	Metadata for meteor.shops to dump/meteor/shops.metadata.json
+2016-04-07T04:58:06.752+0430 	meteor.discount to dump/meteor/discount.bson
+2016-04-07T04:58:06.752+0430 		 1 documents
+2016-04-07T04:58:06.752+0430 	Metadata for meteor.discount to dump/meteor/discount.metadata.json
+2016-04-07T04:58:06.752+0430 	meteor.answerquizz to dump/meteor/answerquizz.bson
+2016-04-07T04:58:06.753+0430 		 75 documents
+2016-04-07T04:58:06.753+0430 	Metadata for meteor.answerquizz to dump/meteor/answerquizz.metadata.json
+2016-04-07T04:58:06.753+0430 	meteor.cfs.images.filerecord to dump/meteor/cfs.images.filerecord.bson
+2016-04-07T04:58:06.758+0430 		 4930 documents
+2016-04-07T04:58:06.758+0430 	Metadata for meteor.cfs.images.filerecord to dump/meteor/cfs.images.filerecord.metadata.json
+2016-04-07T04:58:06.759+0430 	meteor.attribute to dump/meteor/attribute.bson
+2016-04-07T04:58:06.764+0430 		 5753 documents
+2016-04-07T04:58:06.765+0430 	Metadata for meteor.attribute to dump/meteor/attribute.metadata.json
+2016-04-07T04:58:06.765+0430 	meteor.question to dump/meteor/question.bson
+2016-04-07T04:58:06.765+0430 		 6 documents
+2016-04-07T04:58:06.765+0430 	Metadata for meteor.question to dump/meteor/question.metadata.json
+2016-04-07T04:58:06.765+0430 	meteor.linkselling to dump/meteor/linkselling.bson
+2016-04-07T04:58:06.765+0430 		 1 documents
+2016-04-07T04:58:06.765+0430 	Metadata for meteor.linkselling to dump/meteor/linkselling.metadata.json
+2016-04-07T04:58:06.765+0430 	meteor.mouse to dump/meteor/mouse.bson
+2016-04-07T04:58:06.770+0430 		 5157 documents
+2016-04-07T04:58:06.770+0430 	Metadata for meteor.mouse to dump/meteor/mouse.metadata.json
+2016-04-07T04:58:06.770+0430 	meteor.parent_tags to dump/meteor/parent_tags.bson
+2016-04-07T04:58:06.770+0430 		 133 documents
+2016-04-07T04:58:06.770+0430 	Metadata for meteor.parent_tags to dump/meteor/parent_tags.metadata.json
+2016-04-07T04:58:06.770+0430 	meteor.cart to dump/meteor/cart.bson
+2016-04-07T04:58:06.771+0430 		 101 documents
+2016-04-07T04:58:06.771+0430 	Metadata for meteor.cart to dump/meteor/cart.metadata.json
+2016-04-07T04:58:06.771+0430 	meteor.payments to dump/meteor/payments.bson
+2016-04-07T04:58:06.771+0430 		 20 documents
+2016-04-07T04:58:06.771+0430 	Metadata for meteor.payments to dump/meteor/payments.metadata.json
+2016-04-07T04:58:06.771+0430 	meteor.__kdconfig to dump/meteor/__kdconfig.bson
+2016-04-07T04:58:06.771+0430 		 0 documents
+2016-04-07T04:58:06.771+0430 	Metadata for meteor.__kdconfig to dump/meteor/__kdconfig.metadata.json
+2016-04-07T04:58:06.771+0430 DATABASE: safirdb	 to 	dump/safirdb
+2016-04-07T04:58:06.771+0430 	safirdb.system.indexes to dump/safirdb/system.indexes.bson
+2016-04-07T04:58:06.771+0430 		 51 documents
+2016-04-07T04:58:06.771+0430 	safirdb.users to dump/safirdb/users.bson
+2016-04-07T04:58:06.804+0430 		 41502 documents
+2016-04-07T04:58:06.809+0430 	Metadata for safirdb.users to dump/safirdb/users.metadata.json
+2016-04-07T04:58:06.809+0430 	safirdb.roles to dump/safirdb/roles.bson
+2016-04-07T04:58:06.809+0430 		 1 documents
+2016-04-07T04:58:06.809+0430 	Metadata for safirdb.roles to dump/safirdb/roles.metadata.json
+2016-04-07T04:58:06.809+0430 	safirdb.meteor_accounts_loginServiceConfiguration to dump/safirdb/meteor_accounts_loginServiceConfiguration.bson
+2016-04-07T04:58:06.809+0430 		 4 documents
+2016-04-07T04:58:06.809+0430 	Metadata for safirdb.meteor_accounts_loginServiceConfiguration to dump/safirdb/meteor_accounts_loginServiceConfiguration.metadata.json
+2016-04-07T04:58:06.809+0430 	safirdb.meteor_oauth_pendingCredentials to dump/safirdb/meteor_oauth_pendingCredentials.bson
+2016-04-07T04:58:06.809+0430 		 0 documents
+2016-04-07T04:58:06.809+0430 	Metadata for safirdb.meteor_oauth_pendingCredentials to dump/safirdb/meteor_oauth_pendingCredentials.metadata.json
+2016-04-07T04:58:06.809+0430 	safirdb.meteor_oauth_pendingRequestTokens to dump/safirdb/meteor_oauth_pendingRequestTokens.bson
+2016-04-07T04:58:06.809+0430 		 0 documents
+2016-04-07T04:58:06.809+0430 	Metadata for safirdb.meteor_oauth_pendingRequestTokens to dump/safirdb/meteor_oauth_pendingRequestTokens.metadata.json
+2016-04-07T04:58:06.809+0430 	safirdb.userTracking to dump/safirdb/userTracking.bson
+2016-04-07T04:58:06.828+0430 		 21882 documents
+2016-04-07T04:58:06.829+0430 	Metadata for safirdb.userTracking to dump/safirdb/userTracking.metadata.json
+2016-04-07T04:58:06.830+0430 	safirdb.tags to dump/safirdb/tags.bson
+2016-04-07T04:58:06.830+0430 		 667 documents
+2016-04-07T04:58:06.830+0430 	Metadata for safirdb.tags to dump/safirdb/tags.metadata.json
+2016-04-07T04:58:06.830+0430 	safirdb.translation to dump/safirdb/translation.bson
+2016-04-07T04:58:06.831+0430 		 751 documents
+2016-04-07T04:58:06.831+0430 	Metadata for safirdb.translation to dump/safirdb/translation.metadata.json
+2016-04-07T04:58:06.831+0430 	safirdb.banner to dump/safirdb/banner.bson
+2016-04-07T04:58:06.831+0430 		 6 documents
+2016-04-07T04:58:06.831+0430 	Metadata for safirdb.banner to dump/safirdb/banner.metadata.json
+2016-04-07T04:58:06.831+0430 	safirdb.categories to dump/safirdb/categories.bson
+2016-04-07T04:58:06.832+0430 		 67 documents
+2016-04-07T04:58:06.832+0430 	Metadata for safirdb.categories to dump/safirdb/categories.metadata.json
+2016-04-07T04:58:06.832+0430 	safirdb.journey to dump/safirdb/journey.bson
+2016-04-07T04:58:06.832+0430 		 3 documents
+2016-04-07T04:58:06.832+0430 	Metadata for safirdb.journey to dump/safirdb/journey.metadata.json
+2016-04-07T04:58:06.832+0430 	safirdb.products to dump/safirdb/products.bson
+2016-04-07T04:58:06.839+0430 		 1352 documents
+2016-04-07T04:58:06.840+0430 	Metadata for safirdb.products to dump/safirdb/products.metadata.json
+2016-04-07T04:58:06.840+0430 	safirdb.list_product to dump/safirdb/list_product.bson
+2016-04-07T04:58:06.840+0430 		 3 documents
+2016-04-07T04:58:06.840+0430 	Metadata for safirdb.list_product to dump/safirdb/list_product.metadata.json
+2016-04-07T04:58:06.840+0430 	safirdb.favorite to dump/safirdb/favorite.bson
+2016-04-07T04:58:06.841+0430 		 53 documents
+2016-04-07T04:58:06.841+0430 	Metadata for safirdb.favorite to dump/safirdb/favorite.metadata.json
+2016-04-07T04:58:06.841+0430 	safirdb.attribute_value to dump/safirdb/attribute_value.bson
+2016-04-07T04:58:06.841+0430 		 440 documents
+2016-04-07T04:58:06.841+0430 	Metadata for safirdb.attribute_value to dump/safirdb/attribute_value.metadata.json
+2016-04-07T04:58:06.841+0430 	safirdb.order to dump/safirdb/order.bson
+2016-04-07T04:58:06.841+0430 		 7 documents
+2016-04-07T04:58:06.841+0430 	Metadata for safirdb.order to dump/safirdb/order.metadata.json
+2016-04-07T04:58:06.841+0430 	safirdb.contents_type to dump/safirdb/contents_type.bson
+2016-04-07T04:58:06.841+0430 		 3 documents
+2016-04-07T04:58:06.841+0430 	Metadata for safirdb.contents_type to dump/safirdb/contents_type.metadata.json
+2016-04-07T04:58:06.841+0430 	safirdb.contents to dump/safirdb/contents.bson
+2016-04-07T04:58:06.842+0430 		 24 documents
+2016-04-07T04:58:06.842+0430 	Metadata for safirdb.contents to dump/safirdb/contents.metadata.json
+2016-04-07T04:58:06.842+0430 	safirdb.cfs._tempstore.chunks to dump/safirdb/cfs._tempstore.chunks.bson
+2016-04-07T04:58:06.842+0430 		 0 documents
+2016-04-07T04:58:06.842+0430 	Metadata for safirdb.cfs._tempstore.chunks to dump/safirdb/cfs._tempstore.chunks.metadata.json
+2016-04-07T04:58:06.842+0430 	safirdb.daily to dump/safirdb/daily.bson
+2016-04-07T04:58:06.842+0430 		 31 documents
+2016-04-07T04:58:06.842+0430 	Metadata for safirdb.daily to dump/safirdb/daily.metadata.json
+2016-04-07T04:58:06.842+0430 	safirdb.parentattr to dump/safirdb/parentattr.bson
+2016-04-07T04:58:06.842+0430 		 2 documents
+2016-04-07T04:58:06.842+0430 	Metadata for safirdb.parentattr to dump/safirdb/parentattr.metadata.json
+2016-04-07T04:58:06.842+0430 	safirdb.stock to dump/safirdb/stock.bson
+2016-04-07T04:58:06.911+0430 		 115960 documents
+2016-04-07T04:58:06.915+0430 	Metadata for safirdb.stock to dump/safirdb/stock.metadata.json
+2016-04-07T04:58:06.915+0430 	safirdb.card to dump/safirdb/card.bson
+2016-04-07T04:58:06.916+0430 		 0 documents
+2016-04-07T04:58:06.916+0430 	Metadata for safirdb.card to dump/safirdb/card.metadata.json
+2016-04-07T04:58:06.916+0430 	safirdb.p2 to dump/safirdb/p2.bson
+2016-04-07T04:58:06.922+0430 		 848 documents
+2016-04-07T04:58:06.923+0430 	Metadata for safirdb.p2 to dump/safirdb/p2.metadata.json
+2016-04-07T04:58:06.923+0430 	safirdb.shops to dump/safirdb/shops.bson
+2016-04-07T04:58:06.923+0430 		 2 documents
+2016-04-07T04:58:06.923+0430 	Metadata for safirdb.shops to dump/safirdb/shops.metadata.json
+2016-04-07T04:58:06.923+0430 	safirdb.cfs.images.filerecord to dump/safirdb/cfs.images.filerecord.bson
+2016-04-07T04:58:06.924+0430 		 340 documents
+2016-04-07T04:58:06.924+0430 	Metadata for safirdb.cfs.images.filerecord to dump/safirdb/cfs.images.filerecord.metadata.json
+2016-04-07T04:58:06.924+0430 	safirdb.attribute to dump/safirdb/attribute.bson
+2016-04-07T04:58:06.930+0430 		 5709 documents
+2016-04-07T04:58:06.930+0430 	Metadata for safirdb.attribute to dump/safirdb/attribute.metadata.json
+2016-04-07T04:58:06.930+0430 	safirdb.question to dump/safirdb/question.bson
+2016-04-07T04:58:06.930+0430 		 6 documents
+2016-04-07T04:58:06.930+0430 	Metadata for safirdb.question to dump/safirdb/question.metadata.json
+2016-04-07T04:58:06.930+0430 	safirdb.linkselling to dump/safirdb/linkselling.bson
+2016-04-07T04:58:06.931+0430 		 1 documents
+2016-04-07T04:58:06.931+0430 	Metadata for safirdb.linkselling to dump/safirdb/linkselling.metadata.json
+2016-04-07T04:58:06.931+0430 	safirdb.parent_tags to dump/safirdb/parent_tags.bson
+2016-04-07T04:58:06.931+0430 		 133 documents
+2016-04-07T04:58:06.931+0430 	Metadata for safirdb.parent_tags to dump/safirdb/parent_tags.metadata.json
+2016-04-07T04:58:06.931+0430 	safirdb.cart to dump/safirdb/cart.bson
+2016-04-07T04:58:06.931+0430 		 3 documents
+2016-04-07T04:58:06.931+0430 	Metadata for safirdb.cart to dump/safirdb/cart.metadata.json
+2016-04-07T04:58:06.931+0430 	safirdb.payments to dump/safirdb/payments.bson
+2016-04-07T04:58:06.931+0430 		 20 documents
+2016-04-07T04:58:06.931+0430 	Metadata for safirdb.payments to dump/safirdb/payments.metadata.json
+2016-04-07T04:58:06.931+0430 DATABASE: admin	 to 	dump/admin
+2016-04-07T04:58:06.931+0430 DATABASE: safir	 to 	dump/safir
+git: /usr/local/lib/libz.so.1: no version information available (required by git)
